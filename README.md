@@ -4,9 +4,9 @@ Simple Command Line Interface Tic-Tac-Toe,
   
   -Player 'X' will always go first
   
-  -Coordinates must be input on seperate lines, for example
-    1 (enter)
-    2 (enter)
+  -Coordinates must be input on seperate lines, for example  <br/>
+    1 (enter)  <br/>
+    2 (enter)  <br/>
   will result in a X/O being placed in the middle left position
 
   -Coordinate Structure
