@@ -10,7 +10,7 @@ Simple Command Line Interface Tic-Tac-Toe,
   will result in a X/O being placed in the middle left position
 
   -Coordinate Structure
-            (1,1) | (2,1) | (3,1)
-            (1,2) | (2,2) | (3,2)
-            (1,3) | (2,3) | (3,3) 
+            (1,1) | (2,1) | (3,1)  <br/>
+            (1,2) | (2,2) | (3,2)  <br/>
+            (1,3) | (2,3) | (3,3)  <br/>
     
